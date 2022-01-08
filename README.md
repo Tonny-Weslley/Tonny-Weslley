@@ -1,6 +1,6 @@
 ### Greetings, i'm Tonny Weslley 🤙
 From 🇧🇷
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel and C#
 
 <div align="center">
   <a href="https://github.com/Tonny-Weslley"/>
